@@ -1,0 +1,6 @@
+framework module Pods_TechcrunchHackathon {
+  umbrella header "Pods-TechcrunchHackathon-umbrella.h"
+
+  export *
+  module * { export * }
+}
